@@ -1,0 +1,13 @@
+com\fatma\produits\entities\Categorie.class
+com\fatma\produits\security\KeycloakRoleConverter.class
+com\fatma\produits\service\ProduitServiceImpl.class
+com\fatma\produits\service\ProduitService.class
+com\fatma\produits\ProduitsApplication.class
+com\fatma\produits\repos\ProduitRepository.class
+com\fatma\produits\security\SecParams.class
+com\fatma\produits\entities\ProduitProjection.class
+com\fatma\produits\security\SecurityConfig$1.class
+com\fatma\produits\entities\Produit.class
+com\fatma\produits\repos\CategorieRepository.class
+com\fatma\produits\restcontrollers\ProduitRESTController.class
+com\fatma\produits\security\SecurityConfig.class

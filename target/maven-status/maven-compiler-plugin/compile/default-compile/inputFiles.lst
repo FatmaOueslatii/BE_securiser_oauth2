@@ -1,0 +1,12 @@
+C:\Users\fatma\IdeaProjects\BE_securiser_oauth2\src\main\java\com\fatma\produits\service\ProduitServiceImpl.java
+C:\Users\fatma\IdeaProjects\BE_securiser_oauth2\src\main\java\com\fatma\produits\security\KeycloakRoleConverter.java
+C:\Users\fatma\IdeaProjects\BE_securiser_oauth2\src\main\java\com\fatma\produits\security\SecParams.java
+C:\Users\fatma\IdeaProjects\BE_securiser_oauth2\src\main\java\com\fatma\produits\ProduitsApplication.java
+C:\Users\fatma\IdeaProjects\BE_securiser_oauth2\src\main\java\com\fatma\produits\entities\ProduitProjection.java
+C:\Users\fatma\IdeaProjects\BE_securiser_oauth2\src\main\java\com\fatma\produits\restcontrollers\ProduitRESTController.java
+C:\Users\fatma\IdeaProjects\BE_securiser_oauth2\src\main\java\com\fatma\produits\entities\Produit.java
+C:\Users\fatma\IdeaProjects\BE_securiser_oauth2\src\main\java\com\fatma\produits\security\SecurityConfig.java
+C:\Users\fatma\IdeaProjects\BE_securiser_oauth2\src\main\java\com\fatma\produits\entities\Categorie.java
+C:\Users\fatma\IdeaProjects\BE_securiser_oauth2\src\main\java\com\fatma\produits\repos\CategorieRepository.java
+C:\Users\fatma\IdeaProjects\BE_securiser_oauth2\src\main\java\com\fatma\produits\repos\ProduitRepository.java
+C:\Users\fatma\IdeaProjects\BE_securiser_oauth2\src\main\java\com\fatma\produits\service\ProduitService.java
