@@ -6,16 +6,6 @@ OAuth2 & Keycloak (Spring Boot)
   - Gestion des access tokens et refresh tokens
   - Implémentation du RBAC (Role-Based Access Control)
   - Intégration du social login (GitHub)
-
+    
 🔄 Auth Flow
-sequenceDiagram
-    participant Client (Angular / Postman)
-    participant Keycloak
-    participant API (Spring Boot)
-
-    Client->>Keycloak: Authentication (username/password or social login)
-    Keycloak-->>Client: Access Token (JWT)
-
-    Client->>API: Request + Bearer Token
-    API->>Keycloak: Token validation (public key / introspection)
-    API-->>Client: Protected resource
+<img width="2242" height="802" alt="mermaid-diagram" src="https://github.com/user-attachments/assets/f4eae133-686c-4f5b-a76c-9eee029a0613" />
